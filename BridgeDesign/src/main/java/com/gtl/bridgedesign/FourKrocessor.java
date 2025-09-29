@@ -4,10 +4,7 @@
  */
 package com.gtl.bridgedesign;
 
-/**
- *
- * @author 20309
- */
+
 public class FourKrocessor implements VideoProcessor {
 
     @Override
