@@ -4,10 +4,6 @@
  */
 package com.gtl.bridgedesign;
 
-/**
- *
- * @author 20309
- */
 public class NetFlix extends Video {
 
     public NetFlix (VideoProcessor videoProcessor){
