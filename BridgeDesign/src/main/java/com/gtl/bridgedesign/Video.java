@@ -4,10 +4,7 @@
  */
 package com.gtl.bridgedesign;
 
-/**
- *
- * @author 20309
- */
+
 abstract class Video {
     
     protected VideoProcessor videoProcessor;
